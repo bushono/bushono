@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Goran.
+My name is Goran by some people call me Goce.
 
 - 🔭 I’m currently working on too many things... 
 - 🌱 Desperatelly trying to learn Python and Rust.

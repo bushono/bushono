@@ -1,8 +1,8 @@
-## Hello there 👋
+## Hi there! 👋
 
-My name is Goran by some people call me Goce or Bushono (the Fuse).
+My name is Goran, but some people call me Goce or Bushono (the Fuse)... duh...
 
-- 🔭 I’m currently working on too many things... 
+- 🔭 I’m currently working on too many things...
 - 🌱 Desperatelly trying to learn Python and Rust.
 - 👯 I’m looking to collaborate on AI/ML projects.
 - 🤔 I’m looking for help with any Macedonian related Open Source project wrt ASR, LLM, NER, NLP, TTS
